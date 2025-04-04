@@ -11,6 +11,9 @@ python = "^3.11"
 dbt-core = "^1.8.8"
 dbt-duckdb = "^1.9.0"
 pytest = "^8.3.4"
+duckdb = "^1.2.1"
+pandas = "^2.2.3"
+dbt = "^1.0.0.38.36"
 
 [tool.pytest.ini_options]
 
